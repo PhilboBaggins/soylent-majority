@@ -1,6 +1,8 @@
 # Soylent Majority
 
-TODO: Add description
+A label for a can of Soylent Majority (from the [Decision 3012](https://futurama.fandom.com/wiki/Decision_3012) episode of [Futurama](https://en.wikipedia.org/wiki/Futurama)).
+
+Intended to be printed on a A4 page, cut out and wrapped around a can of food, over the top of the existing label.
 
 ![Soylent Majority](./Soylent%20Majority.png)
 
